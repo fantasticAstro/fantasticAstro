@@ -5,7 +5,7 @@
 </p> 
 
 
-## <img align="center" src="assets/developer.gif" />
+<img align="center" src="assets/developer.gif" />
 <img align="center" src="assets/borderseperator.gif">
 
 <h3 align="center" style="color:White">😄Visit Count😄</h3>
