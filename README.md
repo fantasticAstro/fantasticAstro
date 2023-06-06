@@ -1,7 +1,7 @@
 <!--suppress HtmlDeprecatedAttribute -->
-# Hi there! <img src="assets/Hi.gif" width="35" /> I'm Alexis Colin
+# Hi there! <img src="assets/hi.gif" width="35" /> I'm Alexis Colin
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=I'm+Alexis+Colin;+Lead+Machine+Learning+Engineer+🎲;+Loves+To+Build+Products+✨;+Data+Science+Mentor+⌛;+Open+Source+Contributor+✌;+Top+1%+in+GitHub+💡;+Building+Next+Gen+SaaS+🕵;+Jury+Member+and+Key+Note+Speaker+📢;+Project+Admin+and+Mentor+🤝;+Beta+Tester+and+Freelancer+⌚;">
+  <img  style="text-align:center" src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=I'm+Alexis+Colin;+Lead+Machine+Learning+Engineer+🎲;+Loves+To+Build+Products+✨;+Data+Science+Mentor+⌛;+Open+Source+Contributor+✌;+Top+1%+in+GitHub+💡;+Building+Next+Gen+SaaS+🕵;+Jury+Member+and+Key+Note+Speaker+📢;+Project+Admin+and+Mentor+🤝;+Beta+Tester+and+Freelancer+⌚;">
 </p> 
 
 
@@ -138,8 +138,8 @@
 
 
 </div>
-
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=fantasticAstro&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fantasticAstro&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+<p style="text-align:center">
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=fantasticAstro&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fantasticAstro&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></p>
 
 
 
