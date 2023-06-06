@@ -1,11 +1,11 @@
 <!--suppress HtmlDeprecatedAttribute -->
-# Hi there! <img src="assets/hi.gif" width="35" /> I'm Alexis Colin
+# Hi there! <img src="Assets/Hi.gif" width="35" />
 <p align="center">
   <img  style="text-align:center" src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=I'm+Alexis+Colin;+Lead+Machine+Learning+Engineer+🎲;+Loves+To+Build+Products+✨;+Data+Science+Mentor+⌛;+Open+Source+Contributor+✌;+Top+1%+in+GitHub+💡;+Building+Next+Gen+SaaS+🕵;+Jury+Member+and+Key+Note+Speaker+📢;+Project+Admin+and+Mentor+🤝;+Beta+Tester+and+Freelancer+⌚;">
 </p> 
 
 
-<img align="center" src="assets/developer.gif" />
+## <img align="center" src="assets/developer.gif" />
 <img align="center" src="assets/borderseperator.gif">
 
 <h3 align="center" style="color:White">😄Visit Count😄</h3>
