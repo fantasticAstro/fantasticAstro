@@ -6,7 +6,7 @@
 
 
 <img align="center" src="assets/borderseperator.gif">
-<a href="https://app.daily.dev/astro0805"><img src="https://api.daily.dev/devcards/f6338b8936aa41bda5cf8f3410048a41.png?r=y0l" width="400" alt="Alexis Colin's Dev Card"/></a>
+<a href="https://app.daily.dev/astro0805" align="center"><img src="https://api.daily.dev/devcards/f6338b8936aa41bda5cf8f3410048a41.png?r=y0l" width="400" alt="Alexis Colin's Dev Card"/></a>
 
 <h3 align="center" style="color:White">😄Visit Count😄</h3>
 <br>
